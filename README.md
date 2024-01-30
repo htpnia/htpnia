@@ -1,28 +1,14 @@
-<h1> Hi, welcome to my GitHub! 😺</h1>
-<br>
-<table>
-  <tr>
-    <td>
-      <img width="150px" src="https://avatars.githubusercontent.com/htpnia"/>
-    </td>
-    <td>
-      <div>
-        I'm <b>Nicole Musciacchio</b>
-        <td> 
-        but you can also call me <b>Nia<b>.
-        </td>
-      </div>
-      Front-end developer
-    </td>
-  </tr>
-  
-</table>
+<h1> Hi, I'm Nicole 😺
+    <br>                  
+        <i>but you can also call me</i> Nia.
+</h1>
+
 <br>
 
 
 - ⚙️ System Analyst and Developer at [IBMR - Rio de Janeiro](https://www.ibmr.br)
 - 💻 During the pandemic, I started studying web development on my own.
-- 👨‍💻 Currently open to work
+- 👨‍💻 Currently open to work.
 
 <br>
 
@@ -33,7 +19,7 @@
 
 
 <br>
-<h1>Languages and Tools ⚙️ </h1>
+<h1>Languages and Tools ⚙️</h1>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white)
