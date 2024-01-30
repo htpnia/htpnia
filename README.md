@@ -5,12 +5,14 @@
     <td>
       <img width="150px" src="https://avatars.githubusercontent.com/htpnia"/>
     </td>
-    <td align="left">
+    <td>
       <div>
-        <b>Nicole Musciacchio</b>
+        I'm <b>Nicole Musciacchio</b>
+        <td> 
+        but you can also call me <b>Nia<b>.
+        </td>
       </div>
       Front-end developer
-      <br>
     </td>
   </tr>
   
