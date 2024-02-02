@@ -13,10 +13,10 @@
 <br>
 
 
+[![Website](https://img.shields.io/badge/website-01689B?style=for-the-badge&logo=About.me&logoColor=white)](https://htpnia.github.io/portfolio/index.html)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicole-musciacchio/)
 [![Certificates](https://img.shields.io/badge/Certificates-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://drive.google.com/drive/folders/1XyHECSsmGFQ32yVWGAef4epA6Yv2aQ0i?usp=drive_link)
 ![Discord](https://img.shields.io/badge/niashinov-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
 
 
 <br>
