@@ -8,7 +8,7 @@
 
 - ⚙️ System Analyst and Developer at [IBMR - Rio de Janeiro](https://www.ibmr.br)
 - 💻 During the pandemic, I started studying web development on my own.
-- 👨‍💻 Currently open to work.
+- 👨‍💻 Currently working at [Verde Card](https://www.verdecard.com.br);
 
 <br>
 
